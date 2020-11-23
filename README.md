@@ -1,7 +1,5 @@
-Random Files:
+**NOTE:             (for IntelliJ)**         (Very very handy)
 
-  SEO's == Search Engine Operators
+--ctrl+q while having something highlighted = "Quick Reference Guide"   
 
-
-NOTE: (IntelliJ)
-  ctrl+q while having something highlighted = "Quick Reference Guide"   (Very very handy)
+--shift + shift  while having something highlighted == "Search for"
